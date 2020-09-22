@@ -1,0 +1,34 @@
+﻿  Lab4_106502515.cpp
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(457): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(495): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(507): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(517): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(709): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(710): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(711): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(776): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(787): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(856): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(867): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(878): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(890): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(902): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(914): warning C4018: '<': signed/unsigned 不相符
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1151): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1152): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1153): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1154): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1433): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1434): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1435): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1436): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1449): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1450): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1453): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1454): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1501): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1502): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1503): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1504): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\desktop\2019cg_lab4_106502515\2019cg_lab4_106502515\lab4_106502515.cpp(1397): warning C4715: 'getColor': 不是所有控制路徑都傳回值
+  2019CG_Lab4_106502515.vcxproj -> D:\Desktop\2019CG_Lab4_106502515\Debug\2019CG_Lab4_106502515.exe
